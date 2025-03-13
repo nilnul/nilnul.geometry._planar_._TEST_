@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
-using C = System.Numerics.Complex;
+
 
 namespace nilnul.geometry._planar_._TEST_.nilnul0.geometry.planar.trav_.gon_.orthy.of_.edgesWithoutLastTwo
 {

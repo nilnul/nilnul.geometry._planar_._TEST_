@@ -18,8 +18,7 @@ namespace nilnul.geometry._planar_._TEST_.cloze_.gon.draw
 								,
 								5
 							)
-
-				);
+			);
 
 			var builder = new geometry.planar.drawable.draw_._svg.Builder(100,100);
 

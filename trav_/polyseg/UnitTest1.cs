@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
-namespace nilnul.geometry.planar.trav_.polyseg
+namespace nilnul.geometry.planar.trip_.polyseg
 {
 	[TestClass]
 	public class UnitTest1
@@ -112,7 +112,7 @@ namespace nilnul.geometry.planar.trav_.polyseg
 
 
 		void v(IEnumerable<double> steps, IEnumerable<Complex> pointsExpected) {
-			var a = geometry.planar.trav_.polyseg_._OrthogonalX.Points(steps).ToArray();
+			var a = geometry.planar.trip_.polyseg_._OrthogonalX.Points(steps).ToArray();
 
 			Assert.IsTrue(
 			nilnul.num.complex.str.re_.every_.approx_.PerKilo4Dbl.Unison.re(

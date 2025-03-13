@@ -1,4 +1,4 @@
-﻿using nilnul.geometry.planar.cycle_.gon_;
+using nilnul.geometry.planar.cycle_.gon_;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,7 +28,7 @@ namespace nilnul.geometry.planar.facet_.gon_.conduit.to_.xpn_
 	///		fissure
 	///		breach
 	///
-	[InWorking]
+	//[InWorking]
 	static public class _CrackToAdjacentZonesX
 	{
 
