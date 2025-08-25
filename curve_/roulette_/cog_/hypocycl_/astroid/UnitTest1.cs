@@ -6,6 +6,9 @@ using nilnul.fs.folder.be_.link_;
 
 namespace nilnul.geometry.planar.curve_.cog_.hypocycl_.astroid
 {
+	/// <summary>
+	/// <see cref="geometry.planar.curve_.cog_.hypocycl_."/>
+	/// </summary>
 	[TestClass]
 	public class UnitTest1
 	{

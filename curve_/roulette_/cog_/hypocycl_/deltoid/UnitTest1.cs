@@ -4,7 +4,7 @@ using System.Drawing;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using nilnul.fs.folder.be_.link_;
 
-namespace nilnul.geometry.planar.curve_.cog_.hypocycl
+namespace nilnul.geometry.planar.curve_.cog_.hypocycl_.deltoid
 {
 	[TestClass]
 	public class UnitTest1
