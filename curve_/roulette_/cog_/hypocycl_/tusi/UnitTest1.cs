@@ -27,7 +27,7 @@ namespace nilnul.geometry.planar.curve_.cog_.hypocycl_.tusi
 
 
 			const double outerRadius = 512*.9;
-			const double outerPerInner = 17;	// or 1.5
+			const double outerPerInner = 17;	// or 1.5, or any number you specify
 			var model =  nilnul.geometry.planar.curve_.roulette_.cog_.hypo_.Hypocycloid.OfRadii(
 				outerRadius
 				,
