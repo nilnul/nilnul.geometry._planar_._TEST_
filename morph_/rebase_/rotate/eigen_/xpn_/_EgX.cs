@@ -1,4 +1,4 @@
-﻿namespace nilnul.geometry.planar.morph_.rebase.eigen_.xpn_
+﻿namespace nilnul.geometry.planar.morph_.remat.eigen_.xpn_
 {
 	static public class _EgX
 	{

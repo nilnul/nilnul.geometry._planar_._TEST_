@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nilnul.geometry.planar.locus_
+namespace nilnul.geometry.planar.loci_
 {
 	/// <summary>
 	/// r e^(i a t)

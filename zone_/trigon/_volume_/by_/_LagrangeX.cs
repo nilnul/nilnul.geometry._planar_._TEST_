@@ -26,7 +26,7 @@ namespace nilnul.geometry.planar.zone_.gon_.tri._volume_.by_
 
 			;
 
-			var determinant = nilnul.num.real.matrix_.square.to_.scalar_._DeterminantX._Determinant_assumeSquare(matrix);
+			var determinant = nilnul.num.real.matrix_.sq.to_.scalar_._DeterminantX._Determinant_assumeSquare(matrix);
 
 			return determinant /
 				2 // (BigInteger) nilnul.num.op_._FactorialX._Eval_byLoop(2)

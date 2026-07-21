@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nilnul.geometry.planar.morph_.rebase_.bivec8eigen
+namespace nilnul.geometry.planar.morph_.remat_.bivec8eigen
 {
 	/// <summary>
 	/// for a rebase A,

@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace nilnul.geometry.planar.morph_.rebase_.rotate.eigen_.unique.vecs8all_
+namespace nilnul.geometry.planar.morph_.remat_.rotate.eigen_.unique.vecs8all_
 {
 	[TestClass]
 	public class UnitTest1

@@ -18,7 +18,7 @@ namespace nilnul.geometry.planar.grad_.skid.sweep_.affine_.mid8circ
 
 			var address2save = nilnul.fs.folder.dnt_.mainVered_.minVer_.Next.OvAddress(container).address("a.gif");
 
-			var gif = new nilnul.img.Gif_1_()
+			var gif = new nilnul.pic.Gif_1_()
 			{
 				DefaultFrameDelay = 1000 / 24
 

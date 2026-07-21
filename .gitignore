@@ -248,3 +248,21 @@ MigrationBackup/
 
 .*
 !.gitignore
+
+*([Gg]it)*/
+*.vsmdi
+TemporaryGeneratedFile*
+/*.user
+!/*.user/
+/bin/[Dd]ebug/
+/[Dd]ebugPublic/
+/bin/[Rr]elease/
+/bin/[Rr]eleases/
+/[Dd]ebugPS/
+/[Rr]eleasePS/
+/artifacts/
+/ipch/
+[Pp]ackages/
+*.refactorlog
+/*.snk
+/Backup*/

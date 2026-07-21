@@ -18,20 +18,20 @@ namespace nilnul.geometry.planar.curve_.cog_.hypocycl_.tusi
 
 			var address2save = nilnul.fs.folder.dnt_.mainVered_.minVer_.Next.OvAddress(container).address("a.gif");
 
-			var gif = new nilnul.img.Gif_1_()
+			var gif = new nilnul.pic.Gif_1_()
 			{
-				DefaultFrameDelay = 1000 / 24
+				DefaultFrameDelay = 1000 / 24 +1
 				,
 
 			};
 
 
 			const double outerRadius = 512*.9;
-			const double outerPerInner = 3;	// or 1.5
+			const double outerPerInner = 17;	// or 1.5
 			var model =  nilnul.geometry.planar.curve_.roulette_.cog_.hypo_.Hypocycloid.OfRadii(
 				outerRadius
 				,
-				outerRadius /2d 
+				outerRadius /outerPerInner /// straight when 2.
 			);
 
 			var basises = new List<Point>();

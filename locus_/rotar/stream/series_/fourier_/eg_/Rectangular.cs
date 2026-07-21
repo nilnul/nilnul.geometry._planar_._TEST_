@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nilnul.geometry.planar.locus_.rotar.stream.series_.fourier_.eg_
+namespace nilnul.geometry.planar.loci_.rotar.stream.series_.fourier_.eg_
 {
 	/// <summary>
 	/// the stream
